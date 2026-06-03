@@ -48,12 +48,3 @@ Delivered actionable insights supporting digital marketing strategy and campaign
 Identified landing page optimization opportunities through user engagement analysis.
 Under Projects
 
-Website Traffic Analytics Dashboard (GA4 & Power BI)
-
-GitHub Repository:
-Website Traffic Analysis Project
-
-Developed an interactive dashboard analyzing website performance, user acquisition, demographics, and engagement metrics.
-Transformed GA4 data into business insights for marketing decision-making and website optimization.
-Performed audience segmentation and geographic analysis to identify high-potential target markets.
-
